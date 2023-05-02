@@ -13,7 +13,7 @@ void draw_rectangle(int x_start, int y_start, int width, int height, short int c
             ptr[(y << 9) + x] = color;
         }
     }
-}
+} //test
 
 void check_KEYs(int * KEY1, int * KEY2, int * KEY3, int * counter)
 {
